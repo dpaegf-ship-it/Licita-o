@@ -1,0 +1,171 @@
+{
+  "etapas": [
+    {
+      "nome": "01 - Termo de Abertura",
+      "modelo": "01_termo_abertura_processo_administrativo.md",
+      "saida": "01_termo_abertura.md"
+    },
+    {
+      "nome": "02 - DFD",
+      "modelo": "02_dfd.md",
+      "saida": "02_dfd.md"
+    },
+    {
+      "nome": "03 - Folder/Programação",
+      "modelo": "03_folder_programacao.md",
+      "saida": "03_folder_programacao.md"
+    },
+    {
+      "nome": "04 - Solicitação de Autorização",
+      "modelo": "04_solicitacao_autorizacao.md",
+      "saida": "04_solicitacao_autorizacao.md"
+    },
+    {
+      "nome": "05 - Autorização",
+      "modelo": "05_autorizacao.md",
+      "saida": "05_autorizacao.md"
+    },
+    {
+      "nome": "06 - Portaria Responsáveis",
+      "anexos": [
+        "06_portaria_responsaveis.pdf",
+        "06_ficha_cadastral_portaria.pdf"
+      ]
+    },
+    {
+      "nome": "07 - ETP",
+      "modelo": "07_etp.md",
+      "saida": "07_etp.md"
+    },
+    {
+      "nome": "08 - Análise de Risco",
+      "modelo": "08_analise_risco.md",
+      "saida": "08_analise_risco.md"
+    },
+    {
+      "nome": "09 - Termo de Referência",
+      "modelo": "09_termo_referencia.md",
+      "saida": "09_termo_referencia.md"
+    },
+    {
+      "nome": "10 - Justificativa Inexigibilidade e Preço",
+      "modelo": "10_justificativa_inexigibilidade_preco.md",
+      "saida": "10_justificativa_inexigibilidade_preco.md"
+    },
+    {
+      "nome": "11 - Notas Fiscais Anteriores — Contratada",
+      "modelo": "11_notas_fiscais_anteriores_contratada.md",
+      "saida": "11_notas_fiscais_anteriores_contratada.md"
+    },
+    {
+      "nome": "12 - Estimativa de Valor",
+      "modelo": "12_estimativa_valor.md",
+      "saida": "12_estimativa_valor.md"
+    },
+    {
+      "nome": "13 - Notas Fiscais Anteriores - Câmara",
+      "modelo": "13_notas_fiscais_anteriores_camara.md",
+      "saida": "13_notas_fiscais_anteriores_camara.md"
+    },
+    {
+      "nome": "14 - Cotação de Valores - Banco de Preço",
+      "modelo": "14_cotacao_valores_banco_preco.md",
+      "saida": "14_cotacao_valores_banco_preco.md"
+    },
+    {
+      "nome": "15 - Habilitação Técnica",
+      "modelo": "15_habilitacao_tecnica.md",
+      "saida": "15_habilitacao_tecnica.md"
+    },
+    {
+      "nome": "16 - Habilitação Jurídica",
+      "modelo": "16_habilitacao_juridica.md",
+      "saida": "16_habilitacao_juridica.md"
+    },
+    {
+      "nome": "17 - Habilitação Econômica",
+      "modelo": "17_habilitacao_economica.md",
+      "saida": "17_habilitacao_economica.md"
+    },
+    {
+      "nome": "18 - Média de Valores Cotados – SCPI",
+      "modelo": "18_media_valores_cotados_scpi.md",
+      "saida": "18_media_valores_cotados_scpi.md"
+    },
+    {
+      "nome": "19 - NAD",
+      "modelo": "19_nad.md",
+      "saida": "19_nad.md"
+    },
+    {
+      "nome": "20 - Reserva de Dotação",
+      "modelo": "20_reserva_dotacao.md",
+      "saida": "20_reserva_dotacao.md"
+    },
+    {
+      "nome": "21 - Justificativa Dispensa Parcial Habilitação",
+      "modelo": "21_justificativa_dispensa_parcial_habilitacao.md",
+      "saida": "21_justificativa_dispensa_parcial_habilitacao.md"
+    },
+    {
+      "nome": "22 - Declaração de Conformidade",
+      "modelo": "22_declaracao_conformidade.md",
+      "saida": "22_declaracao_conformidade.md"
+    },
+    {
+      "nome": "23 - Parecer Referencial",
+      "modelo": "23_parecer_referencial.md",
+      "saida": "23_parecer_referencial.md"
+    },
+    {
+      "nome": "24 - Termo de Homologação",
+      "modelo": "24_termo_homologacao.md",
+      "saida": "24_termo_homologacao.md"
+    },
+    {
+      "nome": "25 - Extrato Licitanet",
+      "modelo": "25_extrato_licitanet.md",
+      "saida": "25_extrato_licitanet.md"
+    },
+    {
+      "nome": "26 - Publicação – AROM",
+      "modelo": "26_publicacao_arom.md",
+      "saida": "26_publicacao_arom.md"
+    },
+    {
+      "nome": "27 - Publicação – PNCP",
+      "modelo": "27_publicacao_pncp.md",
+      "saida": "27_publicacao_pncp.md"
+    },
+    {
+      "nome": "28 - Pedido de Empenho – SCPI",
+      "modelo": "28_pedido_empenho_scpi.md",
+      "saida": "28_pedido_empenho_scpi.md"
+    },
+    {
+      "nome": "29 - Despacho – Determinação de Empenho",
+      "modelo": "29_despacho_determinacao_empenho.md",
+      "saida": "29_despacho_determinacao_empenho.md"
+    },
+    {
+      "nome": "30 - Nota de Empenho",
+      "modelo": "30_nota_empenho.md",
+      "saida": "30_nota_empenho.md"
+    },
+    {
+      "nome": "31 - Nota Fiscal Contratação",
+      "modelo": "31_nota_fiscal_contratacao.md",
+      "saida": "31_nota_fiscal_contratacao.md"
+    },
+    {
+      "nome": "32 - Certifico de Nota Fiscal",
+      "modelo": "32_certifico_nota_fiscal.md",
+      "saida": "32_certifico_nota_fiscal.md"
+    },
+    {
+      "nome": "33 - Despacho – Determinação de Liquidação",
+      "modelo": "33_despacho_determinacao_liquidacao.md",
+      "saida": "33_despacho_determinacao_liquidacao.md"
+    }
+  ]
+}

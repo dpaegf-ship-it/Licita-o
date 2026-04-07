@@ -1,0 +1,14 @@
+{
+  "etapas": [
+    {
+      "nome": "01 - Termo de referência",
+      "modelo": "termo_referencia.md",
+      "saida": "01_termo_referencia.md"
+    },
+    {
+      "nome": "03 - Declaração de idoneidade",
+      "modelo": "declaracao_idoneidade.md",
+      "saida": "03_declaracao_idoneidade.md"
+    }
+  ]
+}
